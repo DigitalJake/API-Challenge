@@ -1,4 +1,5 @@
 # Python-API-Challenge
+![WeatherPy](https://github.com/DigitalJake/API-Challenge/assets/120591725/19ddd862-910d-4613-89c3-d5855e3d86d6)
 
 ## WeatherPy
 
@@ -45,6 +46,8 @@ You should create the following plots:
 After each pair of plots, explain what the linear regression is modeling. Describe any relationships that you notice and any other findings you may uncover.
 
 ## VacationPy
+
+![VacationPy](https://github.com/DigitalJake/API-Challenge/assets/120591725/e8e5b8f8-987c-49eb-9375-b3b0a2385a7a)
 
 In this deliverable, you'll use your weather data skills to plan future vacations. Also, you'll use Jupyter notebooks, the geoViews Python library, and the Geoapify API.
 

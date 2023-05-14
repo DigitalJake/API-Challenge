@@ -47,7 +47,8 @@ After each pair of plots, explain what the linear regression is modeling. Descri
 
 ## VacationPy
 
-![VacationPy](https://github.com/DigitalJake/API-Challenge/assets/120591725/e8e5b8f8-987c-49eb-9375-b3b0a2385a7a)
+![PythonTools_hero2-1200x674](https://github.com/DigitalJake/API-Challenge/assets/120591725/cb5f00c2-3146-43d2-a267-a65ea0b24647)
+
 
 In this deliverable, you'll use your weather data skills to plan future vacations. Also, you'll use Jupyter notebooks, the geoViews Python library, and the Geoapify API.
 

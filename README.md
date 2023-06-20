@@ -2,6 +2,8 @@
 
 ## WeatherPy
 
+![image](https://github.com/DigitalJake/API-Challenge/assets/120591725/55210b46-5dca-4d46-a879-71580dd9365d)
+
 In this deliverable, you'll create a Python script to visualize the weather of over 500 cities of varying distances from the equator. You'll use the citipy Python libraryLinks to an external site., the OpenWeatherMap APILinks to an external site., and your problem-solving skills to create a representative model of weather across cities.
 
 For this part, you'll use the WeatherPy.ipynb Jupyter notebook provided in the starter code ZIP file. The starter code will guide you through the process of using your Python coding skills to develop a solution to address the required functionalities.
@@ -46,6 +48,7 @@ After each pair of plots, explain what the linear regression is modeling. Descri
 
 ## VacationPy
 
+![image](https://github.com/DigitalJake/API-Challenge/assets/120591725/25bfd188-323f-4c89-ad4c-45ebbea38cd9)
 
 In this deliverable, you'll use your weather data skills to plan future vacations. Also, you'll use Jupyter notebooks, the geoViews Python library, and the Geoapify API.
 

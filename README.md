@@ -14,12 +14,16 @@ To get started, the code required to generate random geographic coordinates and 
 To fulfill the first requirement, you'll use the OpenWeatherMap API to retrieve weather data from the cities list generated in the starter code. Next, you'll create a series of scatter plots to showcase the following relationships:
 
 Latitude vs. Temperature
+![image](https://github.com/DigitalJake/API-Challenge/assets/120591725/6213ae20-ed79-4546-a0ad-ed1e925fa678)
 
 Latitude vs. Humidity
+![image](https://github.com/DigitalJake/API-Challenge/assets/120591725/fc906772-ace2-4695-9f15-9cf6816eef41)
 
 Latitude vs. Cloudiness
+![image](https://github.com/DigitalJake/API-Challenge/assets/120591725/3bad6a82-c19b-44a5-8807-f00d3ef6585e)
 
 Latitude vs. Wind Speed
+![image](https://github.com/DigitalJake/API-Challenge/assets/120591725/19eb4d53-ce76-4ad6-b29b-100487de8ded)
 
 ### Compute Linear Regression for Each Relationship
 To fulfill the second requirement, compute the linear regression for each relationship. Separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude). You may find it helpful to define a function in order to create the linear regression plots.
@@ -29,20 +33,28 @@ Next, create a series of scatter plots. Be sure to include the linear regression
 You should create the following plots:
 
 - Northern Hemisphere: Temperature vs. Latitude
+![image](https://github.com/DigitalJake/API-Challenge/assets/120591725/a6ffa43d-4089-47b6-89f3-d1bc3267de76)
 
 - Southern Hemisphere: Temperature vs. Latitude
+![image](https://github.com/DigitalJake/API-Challenge/assets/120591725/9c21b263-aca1-4508-87b0-6a8e01d0fa1f)
 
 - Northern Hemisphere: Humidity vs. Latitude
+![image](https://github.com/DigitalJake/API-Challenge/assets/120591725/3b846b54-7df5-4be9-a603-55bb82308034)
 
 - Southern Hemisphere: Humidity vs. Latitude
+![image](https://github.com/DigitalJake/API-Challenge/assets/120591725/27469bb3-490a-43a2-abd0-eb532b4065bf)
 
 - Northern Hemisphere: Cloudiness vs. Latitude
+![image](https://github.com/DigitalJake/API-Challenge/assets/120591725/42e8e863-0e74-4b93-aa0f-9e33080f5343)
 
 - Southern Hemisphere: Cloudiness vs. Latitude
+![image](https://github.com/DigitalJake/API-Challenge/assets/120591725/c22a0230-9652-44cc-91bb-031718d868da)
 
 - Northern Hemisphere: Wind Speed vs. Latitude
+![image](https://github.com/DigitalJake/API-Challenge/assets/120591725/959f7f08-84b0-468c-85f2-1f42d7143e42)
 
 - Southern Hemisphere: Wind Speed vs. Latitude
+![image](https://github.com/DigitalJake/API-Challenge/assets/120591725/8dfd2d4a-7a94-49aa-b5d6-bd1b549ad6f0)
 
 After each pair of plots, explain what the linear regression is modeling. Describe any relationships that you notice and any other findings you may uncover.
 
